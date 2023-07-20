@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "961894dc9e268d58a4d698772c6806383eb8423c68b1685214abbc03136b12d3"
+build_start_time: [1689057348, 569509983]
+build_end_time: [1689057348, 724625110]
+inputs:
+  "/Users/THERENCE/PFE/start/ios/Pods/SwiftyGif/SwiftyGif/NSImage+SwiftyGif.swift": !private [1689056377, 949560165]
+  "/Users/THERENCE/PFE/start/ios/Pods/SwiftyGif/SwiftyGif/NSImageView+SwiftyGif.swift": !private [1689056377, 951188564]
+  "/Users/THERENCE/PFE/start/ios/Pods/SwiftyGif/SwiftyGif/ObjcAssociatedWeakObject.swift": !private [1689056377, 949847698]
+  "/Users/THERENCE/PFE/start/ios/Pods/SwiftyGif/SwiftyGif/SwiftyGifManager.swift": !private [1689056377, 950884342]
+  "/Users/THERENCE/PFE/start/ios/Pods/SwiftyGif/SwiftyGif/UIImage+SwiftyGif.swift": !private [1689056377, 950259208]
+  "/Users/THERENCE/PFE/start/ios/Pods/SwiftyGif/SwiftyGif/UIImageView+SwiftyGif.swift": !private [1689056377, 949141025]

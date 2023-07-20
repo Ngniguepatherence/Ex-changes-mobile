@@ -1,0 +1,35 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "c49a817f2f7b4b9ccef71cf9f0ad51f2a953686cfb204965fc8805776761eecc"
+build_start_time: [1689057377, 930649995]
+build_end_time: [1689057378, 29933929]
+inputs:
+  "/Users/THERENCE/PFE/start/ios/Pods/DKImagePickerController/Sources/DKImageDataManager/DKImageBaseManager.swift": !private [1689055819, 64629077]
+  "/Users/THERENCE/PFE/start/ios/Pods/DKImagePickerController/Sources/DKImageDataManager/DKImageDataManager.swift": !private [1689055819, 64004421]
+  "/Users/THERENCE/PFE/start/ios/Pods/DKImagePickerController/Sources/DKImageDataManager/DKImageGroupDataManager.swift": !private [1689055819, 64350128]
+  "/Users/THERENCE/PFE/start/ios/Pods/DKImagePickerController/Sources/DKImageDataManager/Model/DKAsset+Export.swift": !private [1689055819, 65089464]
+  "/Users/THERENCE/PFE/start/ios/Pods/DKImagePickerController/Sources/DKImageDataManager/Model/DKAsset+Fetch.swift": !private [1689055819, 66172599]
+  "/Users/THERENCE/PFE/start/ios/Pods/DKImagePickerController/Sources/DKImageDataManager/Model/DKAsset.swift": !private [1689055819, 66488504]
+  "/Users/THERENCE/PFE/start/ios/Pods/DKImagePickerController/Sources/DKImageDataManager/Model/DKAssetGroup.swift": !private [1689055819, 65789461]
+  "/Users/THERENCE/PFE/start/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/DKImageAssetExporter.swift": !private [1689055819, 68909406]
+  "/Users/THERENCE/PFE/start/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/DKImageExtensionController.swift": !private [1689055819, 67026615]
+  "/Users/THERENCE/PFE/start/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/DKImagePickerController.swift": !private [1689055819, 69342613]
+  ? "/Users/THERENCE/PFE/start/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/DKImagePickerControllerBaseUIDelegate.swift"
+  : !private [1689055819, 69740772]
+  "/Users/THERENCE/PFE/start/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/DKPopoverViewController.swift": !private [1689055819, 70227622]
+  ? "/Users/THERENCE/PFE/start/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/Resource/DKImagePickerControllerResource.swift"
+  : !private [1689055819, 97997665]
+  ? "/Users/THERENCE/PFE/start/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/View/Cell/DKAssetGroupCellItemProtocol.swift"
+  : !private [1689055819, 72490215]
+  ? "/Users/THERENCE/PFE/start/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/View/Cell/DKAssetGroupDetailBaseCell.swift"
+  : !private [1689055819, 72799444]
+  ? "/Users/THERENCE/PFE/start/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/View/Cell/DKAssetGroupDetailCameraCell.swift"
+  : !private [1689055819, 71876525]
+  ? "/Users/THERENCE/PFE/start/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/View/Cell/DKAssetGroupDetailImageCell.swift"
+  : !private [1689055819, 73113679]
+  ? "/Users/THERENCE/PFE/start/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/View/Cell/DKAssetGroupDetailVideoCell.swift"
+  : !private [1689055819, 72174072]
+  "/Users/THERENCE/PFE/start/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/View/DKAssetGroupDetailVC.swift": !private [1689055819, 71368932]
+  "/Users/THERENCE/PFE/start/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/View/DKAssetGroupGridLayout.swift": !private [1689055819, 71051120]
+  "/Users/THERENCE/PFE/start/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/View/DKAssetGroupListVC.swift": !private [1689055819, 73491811]
+  "/Users/THERENCE/PFE/start/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/View/DKPermissionView.swift": !private [1689055819, 70763349]
+  "/Users/THERENCE/PFE/start/ios/Pods/DKImagePickerController/Sources/Extensions/DKImageExtensionGallery.swift": !private [1689055819, 62844276]

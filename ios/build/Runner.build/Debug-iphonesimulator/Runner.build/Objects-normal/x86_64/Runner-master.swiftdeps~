@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "a1893601fc410ceceb162b041840da860a39d9461fa1dd066056606e92a395ff"
+build_start_time: [1689057387, 783524036]
+build_end_time: [1689057387, 924151897]
+inputs:
+  "/Users/THERENCE/PFE/start/ios/Runner/AppDelegate.swift": !private [1675198662, 821940898]
